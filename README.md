@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @josephPeanut
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java.
+- Hi, I’m @josephPeanut
+- I’m interested in FIRST Robotics.
+- I’m currently learning Java.
+- I am part of FTC Team 21564.
 
 <!---
 josephPeanut/josephPeanut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
