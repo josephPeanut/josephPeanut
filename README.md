@@ -1,6 +1,6 @@
 - Hi, I’m @josephPeanut
 - I’m interested in FIRST Robotics.
-- I’m currently learning Java.
+- I’m currently learning Java, HTML, CSS, & JS.
 - I am part of FTC Team 21564.
 
 <!---
